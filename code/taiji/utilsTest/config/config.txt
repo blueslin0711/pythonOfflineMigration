@@ -1,0 +1,16 @@
+##########  注意Key不能重复  ############
+# ConfigUtils
+type = 1
+name = 林
+
+user_name_flag =<span class="gh_hl">username</span> [[:]]
+host_start_flag =Host:  <span class="gh_hl">
+host_end_flag =</span>
+pwd_flag =password[[:]]
+root_name =input_excel
+
+# LogUtils
+log_file_name = log.txt
+
+# OracleUtils
+oracle_connect_info = zddx/zddx@MyDB
